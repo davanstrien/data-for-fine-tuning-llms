@@ -1,0 +1,9 @@
+datasets
+distilabel
+huggingface_hub
+ipykernel
+ipywidgets
+polars[timezone,plot]
+argilla
+python-dotenv
+transformers
