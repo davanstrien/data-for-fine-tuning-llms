@@ -1,3 +1,8 @@
-# Example project
+# Datasets for fine-tuning LLMs
 
-- Generating tl;dr summaries for datasets hosted on the Hugging Face Hub
+- [01_eda_and_deduplication](01_eda_and_deduplication.ipynb)
+- [02-data-checks](02-data-checks.ipynb)
+
+## Synthetic data pipelines
+
+[dataset-card-summaries](dataset-card-summaries/)
