@@ -13,6 +13,8 @@ The goals of the notebooks are focused on balancing the requirement to have suff
 
 ## Synthetic data pipelines
 
-This folder contains a pipeline for generating a synthetic dataset focused on generating tl;dr summaries of datasets based on their dataset card.
+- [dataset-card-summaries](dataset-card-summaries/): This folder contains a pipeline for generating a synthetic dataset focused on generating tl;dr summaries of datasets based on their dataset card.
 
-[dataset-card-summaries](dataset-card-summaries/)
+### Other resources for synthetic data generation
+
+- [awesome-synthetic-datasets](https://github.com/davanstrien/awesome-synthetic-datasets)
