@@ -10,6 +10,7 @@ The goals of the notebooks are focused on balancing the requirement to have suff
 
 - [01_eda_and_deduplication](01_eda_and_deduplication.ipynb)
 - [02-data-checks](02-data-checks.ipynb)
+- [03-synthetic-data-generation](03-synthetic-data-generation.ipynb)
 
 ## Synthetic data pipelines
 
