@@ -6,6 +6,10 @@ The goals of the notebooks are focused on balancing the requirement to have suff
 
 ![Diagram showing goals of the notebooks](goals.png)
 
+## Slides
+
+- [Creating, curating, and cleaning data for LLMs](https://docs.google.com/presentation/d/12n-_ivhTQQpeTKAIvmuxnUxkJ19zvtJzKBwvZn-t8rQ/edit?usp=sharing)
+
 ## Notebooks
 
 - [01_eda_and_deduplication](01_eda_and_deduplication.ipynb)
